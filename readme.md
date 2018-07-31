@@ -23,10 +23,11 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installing
 
-Coming Soon...
+Run With PHP and Apache Server
+Using XAMPP
 
 ```
-Give the example
+http://localhost/fbtools
 ```
 
 ## Built With
